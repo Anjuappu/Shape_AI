@@ -1,0 +1,25 @@
+===============================================================================================================
+	Weather Report Using Python | Report of - MUMBAI  || Dated :22 Jun 2021 Time: 10:54:01 PM
+--------------------------------------------------------------------------------------------------------------
+           .............................General Informations ...........................
+
+			Town or Place		:MUMBAI
+			Country		 	:IN
+			Longitude	 	:72.8479
+			Latitude	 	:19.0144
+			Current Date and Time	:22 Jun 2021 Time: 10:54:01 PM
+           .............................Weather Informations ...........................
+
+			Current Temperature is	 :29.99 deg C
+			Feels Like		 :36.99 deg C
+			Maximum Temperature	 :29.99 deg C
+			Minimum Temperature	 :29.99 deg C
+			Current weather desc	 :HAZE
+			Current weather		 :HAZE
+			Current Humidity	 :79%
+			Current Preasure	 :30.31 Hg
+			Current wind speed	 :79kmph
+           ............................. End of Report.. ...........................
+
+
+ 															Written By Anjana T A |ShapeAI Project |Weather and Python   
